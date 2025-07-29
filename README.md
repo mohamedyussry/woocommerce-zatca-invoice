@@ -38,6 +38,18 @@ This plugin seamlessly integrates the e-invoicing requirements of the Zakat, Tax
 
 ---
 
+## 📸 Screenshots
+
+### Settings Page
+
+![Settings Page](./صفحة%20الاعدادات.png)
+
+### Invoice Example
+
+![Invoice Example](./صورة%20الفاتورة.png)
+
+---
+
 ## 🛠️ Installation
 
 1.  Upload the plugin files to the `/wp-content/plugins/woocommerce-zatca-invoice` directory, or install the plugin directly through the WordPress plugins screen.
