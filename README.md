@@ -1,7 +1,7 @@
 
 # WooCommerce ZATCA Invoice
 
-**Contributors:** [Your Name](https://your-profile-link.com)  
+**Contributors:** [mohamed yussry](https://github.com/mohamedyussry/)  
 **Tags:** woocommerce, invoice, zatca, saudi arabia, e-invoicing  
 **Requires at least:** 5.0  
 **Tested up to:** 6.0  
